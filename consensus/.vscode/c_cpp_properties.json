@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nitish/colcon_ws/install/turtlebot3_gazebo/include/**",
+        "/home/nitish/colcon_ws/install/turtlebot3_fake_node/include/**",
+        "/home/nitish/ros2_ws/install/tutorial_interfaces/include/**",
+        "/home/nitish/ros2_ws/install/turtlesim/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/nitish/colcon_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/nitish/colcon_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
